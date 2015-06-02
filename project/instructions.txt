@@ -1,0 +1,8 @@
+Click the green flag, watch, enjoy!
+Click the stage or press space to change image.
+Adjust the slider at the bottom to make the animation go faster, slower, or even the other way around.
+
+Ideal as a weird 'animated stage' in any project you like. All it takes is one image and one tiny code block - so remix at will, or use the 'backpack' to copy objects to your existing project.
+
+For more 'color effect' animations, please follow my studio:
+https://scratch.mit.edu/studios/1260238

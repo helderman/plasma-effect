@@ -1,0 +1,12 @@
+Design and code by Ruud, May 2015. Inspired by some 'color cycling' animations from the 20th century demo scene.
+
+Images created using GIMP (http://www.gimp.org). Starting points were the 'Full Saturation Spectrum' gradient (the colors) and 'solid noise' clouds (the shapes). Either apply the gradient as 'color map' on the clouds, or apply the clouds as 'displace map' on the gradient. Distort the clouds with filters, brushes and gradients to get crazy effects.
+
+Font for 'HeldLaw' signature: DejaVu Sans, copyright (c) 2003 by Bitstream, Inc. and copyright (c) 2006 by Tavmjong Bah.
+
+Sound: 'Lava loop' by Audionautics.
+https://www.freesound.org/people/Audionautics/sounds/133901/
+
+BUGS:
+Extremely laggy if Flash fails to use hardware acceleration for Scratch's 'color' effect; like on my Linux machine.
+In Phosphorus, the color effect will not work.

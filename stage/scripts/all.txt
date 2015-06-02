@@ -1,0 +1,18 @@
+when green flag clicked
+forever
+    change [color v] effect by (speed)
+end
+
+
+when this sprite clicked
+next backdrop
+
+
+when [space v] key pressed
+next backdrop
+
+
+when green flag clicked
+forever
+    play sound [lava-loop v] until done
+end
